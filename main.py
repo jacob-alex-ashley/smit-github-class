@@ -1,5 +1,5 @@
 def main():
-    print('Contribution from Forked Branch: User B')
+    print('User B : For Loop')
     print("SMIT-Agentic-AI Programming")
 
 
